@@ -170,12 +170,12 @@ while True:
         if bought != 0:          #if a item was bought
             buy_counter = buy_counter + bought          #adds 1 to the buy_counter if an item was bought
             print('item bought on tab ', coordonate_tab, ' total bought items: ', buy_counter)     #prints on what tab was the
-        else:                                                                                      #item bought and the total number of items
-            print('no items bought on tab ', coordonate_tab, ' total bought items: ', buy_counter) #prints the number of items bought since the program started
+                                                                                                   #item bought and the total number of items   
     
         if keyboard.is_pressed("q"):    #checks if the 'q' key is pressed
             break                       #will stop the loop
-        
+
+    print('total bought items: ', buy_counter)
     if keyboard.is_pressed("q"):    #checks if the 'q' key is pressed
             break                   #will stop the loop
         
