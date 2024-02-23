@@ -14,6 +14,8 @@ The main tool used is the locateOnScreen function from pyautogui library.
 
   ![Screenshot (122)](https://github.com/AndreiSSLK/Steam_Auto_Purchase/assets/160149891/ed3ec8d5-e52c-49c9-8ea0-9958e2829b66)
 
+- To quit the program hold down "Q" key
+
 
 ## Why i made it
 
