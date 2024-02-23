@@ -15,7 +15,7 @@ The main tool used is the locateOnScreen function from pyautogui library.
   ![Screenshot (122)](https://github.com/AndreiSSLK/Steam_Auto_Purchase/assets/160149891/ed3ec8d5-e52c-49c9-8ea0-9958e2829b66)
 
 
-  ## Why i made it
+## Why i made it
 
 Sometimes when I'm doing some tasks that are somewhat boring, or encounter a challange I'm curious if I could make a program that can solve that challenge. 
 I do this to evolve my programming skills and to learn something from it.
