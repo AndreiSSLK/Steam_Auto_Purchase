@@ -1,6 +1,6 @@
 # Steam Auto Purchase
 
-A program that will automatically find the steam tabs opened, and constantly go through eatch of them to find items that match the filters aplied.
+This program that will automatically find the steam tabs opened, and constantly go through eatch of them to find items that match the filters aplied.
 The main tool used is the locateOnScreen function from pyautogui library.
 
 
