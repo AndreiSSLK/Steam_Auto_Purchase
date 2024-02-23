@@ -175,7 +175,7 @@ while True:
         if keyboard.is_pressed("q"):    #checks if the 'q' key is pressed
             break                       #will stop the loop
 
-    print('total bought items: ', buy_counter)
+    print('total bought items: ', buy_counter)                    #prints the number of items bought since the program started
     if keyboard.is_pressed("q"):    #checks if the 'q' key is pressed
             break                   #will stop the loop
         
