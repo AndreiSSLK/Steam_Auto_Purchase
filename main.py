@@ -116,7 +116,7 @@ def buy():
     last_seen = 200   #marks the starting point, and then save the last y coordonate where a button was found
     
     while buy_buttons != 0:     #while there are buy buttons unchecked
-        x_buy, y_buy = locateOnScreen('buy.jpg', 800, last_seen, 1600, 1000)   #will get the coordonates of the first buy button
+        x_buy, y_buy = locateOnScreen('buy.jpg', 800, last_seen, 1000, 1000)   #will get the coordonates of the first buy button
         
         if x_buy != -1:     #if there is a buy button
             last_seen = y_buy    #save the y coordonate of the button found
